@@ -1,0 +1,1 @@
+console.log(sortElement([2,7,4,5,9]));
